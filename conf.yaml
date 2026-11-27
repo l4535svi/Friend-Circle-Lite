@@ -95,4 +95,8 @@ smtp:
 
 # 特殊 RSS 地址指定
 # 说明：用于指定特殊 RSS 地址，比如 B 站专栏等不常见 RSS 地址后缀。可以置空，但不要删除此项。
-specific_RSS: []
+specific_RSS:
+  - name: Black Flies
+    url: https://www.yyyzyyyz.cn/atom.xml
+  - name: Mycpen
+    url: https://blog.cpen.top/atom.xml
